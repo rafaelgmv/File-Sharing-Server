@@ -92,7 +92,7 @@ This project successfully consolidated theoretical and practical knowledge of di
 
 ---
 
-**Note:** All figures referenced in this README (e.g., Figure 1, Figure 2) can be found in the `Relatório_SD_Proj_RafaelVentura.pdf` file within this repository.
+**Note:** All figures referenced in this README (e.g., Figure 1, Figure 2) can be found in the `Report.pdf` file within this repository.
 
 #### License
 
